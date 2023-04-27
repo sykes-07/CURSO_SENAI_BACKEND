@@ -1,0 +1,9 @@
+criar um arquivo index.txt no repositório remoto para simular uma alteração feita por outro programador, elencando os principais comandos na sequência indicada a seguir, utilizados para gerenciar o versionamento de seu código e publicar no repositório remoto:
+   · git status
+   · git add
+   · git commit
+   · git push
+   · git checkout
+   · git merge
+   · git pull
+   · git remote
